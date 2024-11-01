@@ -19,8 +19,8 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [GitHub](https://your-solution-url.com)
-- Live Site URL: [Live site](https://your-live-site-url.com)
+- Solution URL: [GitHub](https://github.com/fincodewiz/Blog-preview-card)
+- Live Site URL: [Live site](https://fincodewiz.github.io/Blog-preview-card/)
 
 ## My process
 
@@ -33,5 +33,5 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ## Author
 
-- Frontend Mentor - [@fincodewiz](https://www.frontendmentor.io/profile/yourusername)
-- Twitter / X - [@fincodewiz](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@fincodewiz](https://www.frontendmentor.io/profile/fincodewiz)
+- Twitter / X - [@fincodewiz](https://twitter.com/fincodewiz)
